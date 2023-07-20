@@ -1,0 +1,24 @@
+#Fill in the sign in sheet with your name and chosen game
+
+=========================
+Mike Leeder
+Game: Asteroids
+=========================
+Wesley Morford
+Game: Missile Command
+=========================
+Arie Eskinazi
+Game: Donkey kong
+=========================
+Chris Kondo
+Game: Dig Dug
+=========================
+Nathan Ilescas
+Game: Space Invaders
+=========================
+Brandon Chang
+Game: Tron
+=========================
+Greg Andersson
+Game: Joust
+=========================

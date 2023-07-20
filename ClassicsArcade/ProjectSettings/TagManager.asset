@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SceneLoader
+  - Explosion
+  - Projectile
+  - Obstacle
+  - Building
+  - Boundry
+  - Gibs
+  - Ground
+  - Enemy
+  - Lose Msg
+  - Win Msg
+  - 3D Camera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - PlayerProjectile
+  - EnemyProjectile
+  - Enemy
+  - IgnoreProjectile
+  - Explosion
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4121450577
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 
+    uniqueID: 1689051775
+    locked: 0
+  - name: 
+    uniqueID: 2980003277
+    locked: 0
+  - name: 
+    uniqueID: 2828900601
+    locked: 0
+  - name: 
+    uniqueID: 1677885745
+    locked: 0
